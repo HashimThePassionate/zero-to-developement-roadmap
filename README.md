@@ -1,4 +1,4 @@
-# 📚 **8-Month Skill Development Roadmap** 🚀
+# **8-Month Skill Development Roadmap** 🚀
 
 ## 📌 **Overview**
 
