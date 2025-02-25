@@ -45,7 +45,7 @@ This roadmap is structured to help you systematically learn various technical an
 ### **Phase 2: Advanced Programming Concepts (Month 3-4)**
 | 📅 Month | 🎯 Primary Skill | 📖 Book & Repository | 🔥 Complementary Skill | 📌 Additional Learning |
 |---------|---------------|---------------------|------------------|------------------|
-| **3️⃣ Regular Expressions** | Regular Expressions Cookbook | 📚 [Book Link](https://www.amazon.com/Regular-Expressions-Cookbook-Solutions-Programming/dp/1449319432) 🔗 [Repo](https://github.com/HashimThePassionate/Python-Deep-Dive/tree/main/01_python_fundamentals/20_regular_expressions) | Data Structures & Algorithms | Docker ([Book Link](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1521822808)) |
+| **3️⃣ Regular Expressions** | Regular Expressions Cookbook | 📚 [Book Link](https://www.amazon.com/Regular-Expressions-Cookbook-Solutions-Programming/dp/1449319432) 🔗 [Repo](https://github.com/HashimThePassionate/Python-Deep-Dive/tree/main/01_python_fundamentals/20_regular_expressions) | Data Structures & Algorithms | Docker ([Book Link](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1521822808)) [Repository link](https://github.com/HashimThePassionate/Docker) |
 | **4️⃣ Data Structures & Algorithms** | Hands-On Data Structures & Algorithms with Python (3rd Edition) | 📚 [Book Link](https://www.amazon.com/Hands-Data-Structures-Algorithms-Python/dp/1801073449) 🔗 [Repo](https://github.com/HashimThePassionate/Python-Deep-Dive/tree/main/03_data_structures) | CV Writing & Job Search | Django ([Book Link](https://www.packtpub.com/en-us/product/django-5-by-example-9781805122340)) |
 
 ### **Phase 3: Performance & Scalability (Month 5-6)**
