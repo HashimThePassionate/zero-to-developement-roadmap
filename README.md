@@ -1,4 +1,4 @@
-# **8-Month Skill Development Roadmap** 🚀
+# **Skill Development Roadmap**   (Duration 8-Months) 🚀
 
 ## 📌 **Overview**
 
@@ -36,29 +36,50 @@ This roadmap is structured to help you systematically learn various technical an
 
 ## 🗓 **8-Month Breakdown & Detailed Explanations**
 
-### **Phase 1: Core Programming & Version Control (Month 1-2)**
+### **Phase 1: Core Programming, Version Control, Linkedin Optimization & Linux (Month 1-2)**
 | 📅 Month | 🎯 Primary Skill | 📖 Book & Repository | 🔥 Complementary Skill | 📌 Additional Learning |
 |---------|---------------|---------------------|------------------|------------------|
 | **1️⃣ Python Fundamentals & OOP** | Python Crash Course (3rd Edition) | 📚 [Book Link](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280) 🔗 [Repo](https://github.com/HashimThePassionate/Python-Deep-Dive) | Git & GitHub | Linux Administration ([Book Link](https://www.packtpub.com/en-us/product/mastering-linux-administration-9781837630837)) |
 | **2️⃣ Git & GitHub** | Learn Git Mastery | 🔗 [Repo](https://github.com/HashimThePassionate/learn-git-mastery) | LinkedIn Optimization | Networking ([Book Link](https://www.amazon.com/Computer-Networking-Global-James-Kurose/dp/1292405465)) |
 
-### **Phase 2: Advanced Programming Concepts (Month 3-4)**
+### **Phase 2: Advanced Programming Concepts Regex, DSA, & Django (Month 3-4)**
 | 📅 Month | 🎯 Primary Skill | 📖 Book & Repository | 🔥 Complementary Skill | 📌 Additional Learning |
 |---------|---------------|---------------------|------------------|------------------|
 | **3️⃣ Regular Expressions** | Regular Expressions Cookbook | 📚 [Book Link](https://www.amazon.com/Regular-Expressions-Cookbook-Solutions-Programming/dp/1449319432) 🔗 [Repo](https://github.com/HashimThePassionate/Python-Deep-Dive/tree/main/01_python_fundamentals/20_regular_expressions) | Data Structures & Algorithms | Docker ([Book Link](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1521822808)) [Repository link](https://github.com/HashimThePassionate/Docker) |
 | **4️⃣ Data Structures & Algorithms** | Hands-On Data Structures & Algorithms with Python (3rd Edition) | 📚 [Book Link](https://www.amazon.com/Hands-Data-Structures-Algorithms-Python/dp/1801073449) 🔗 [Repo](https://github.com/HashimThePassionate/Python-Deep-Dive/tree/main/03_data_structures) | CV Writing & Job Search | Django ([Book Link](https://www.packtpub.com/en-us/product/django-5-by-example-9781805122340)) |
 
-### **Phase 3: Performance & Scalability (Month 5-6)**
+### **Phase 3: Performance & Scalability Robust Code, Async, DRF, Docker & Fastapi   (Month 5-6)**
 | 📅 Month | 🎯 Primary Skill | 📖 Book & Repository | 🔥 Complementary Skill | 📌 Additional Learning |
 |---------|---------------|---------------------|------------------|------------------|
 | **5️⃣ Advanced Type Annotation** | Robust Python | 📚 [Book Link](https://www.amazon.com/Robust-Python-Write-Clean-Maintainable/dp/1098100662) 🔗 [Repo](https://github.com/HashimThePassionate/Python-Deep-Dive/tree/main/02_object_oriented_programming) | Asynchronous Programming | Django REST Framework ([Book Link](https://www.packtpub.com/en-us/product/django-in-production-9781804611289)) |
 | **6️⃣ Asynchronous Programming** | Using Asyncio in Python | 📚 [Book Link](https://www.amazon.com/Using-Asyncio-Python-Understanding-Asynchronous/dp/1098100662) 🔗 [Repo](https://github.com/HashimThePassionate/Python-Deep-Dive/tree/main/02_object_oriented_programming/15_async_programming) | Docker | FastAPI ([Book Link](https://www.packtpub.com/en-us/product/building-python-microservices-with-fastapi-9781803238791)) |
 
-### **Phase 4: Databases & System Administration (Month 7-8)**
+### **Phase 4: Databases & System Administration Design patterns, Postesql, Linux and Networking (Month 7-8)**
 | 📅 Month | 🎯 Primary Skill | 📖 Book & Repository | 🔥 Complementary Skill | 📌 Additional Learning |
 |---------|---------------|---------------------|------------------|------------------|
 | **7️⃣ Design Patterns** | Mastering Python Design Patterns | 📚 [Book Link](https://www.packtpub.com/en-us/product/mastering-python-design-patterns-9781837639618) 🔗 [Repo](https://github.com/HashimThePassionate/Python-Deep-Dive/tree/main/05_design_patterns) | PostgreSQL | Job Search & LinkedIn Optimization ([Book Link](https://www.amazon.com/Ultimate-LinkedIn-Sales-Guide-Generating/dp/1119787882)) |
 | **8️⃣ PostgreSQL** | Learn PostgreSQL | 📚 [Book Link](https://www.packtpub.com/en-us/product/learn-postgresql-9781837636204) | Linux & Networking | Advanced CV Writing & Job Applications ([Guide](https://www.myperfectresume.com/career-center/resumes/how-to/write)) |
+
+
+### **Complete List of Books & Links**
+
+- [Django in Production](https://www.packtpub.com/en-us/product/django-in-production-9781804611289)
+- [Building Python Microservices with FastAPI](https://www.packtpub.com/en-us/product/building-python-microservices-with-fastapi-9781803238791)
+- [Python Crash Course (3rd Edition)](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280)
+- [Mastering Linux Administration](https://www.packtpub.com/en-us/product/mastering-linux-administration-9781837630837)
+- [Computer Networking - A Top-Down Approach](https://www.amazon.com/Computer-Networking-Global-James-Kurose/dp/1292405465)
+- [Regular Expressions Cookbook](https://www.amazon.com/Regular-Expressions-Cookbook-Solutions-Programming/dp/1449319432)
+- [Docker Deep Dive](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1521822808)
+- [Hands-On Data Structures & Algorithms with Python (3rd Edition)](https://www.amazon.com/Hands-Data-Structures-Algorithms-Python/dp/1801073449)
+- [Django 5 By Example](https://www.packtpub.com/en-us/product/django-5-by-example-9781805122340)
+- [Robust Python](https://www.amazon.com/Robust-Python-Write-Clean-Maintainable/dp/1098100662)
+- [Using Asyncio in Python](https://www.amazon.com/Using-Asyncio-Python-Understanding-Asynchronous/dp/1098100662)
+- [Mastering Python Design Patterns](https://www.packtpub.com/en-us/product/mastering-python-design-patterns-9781837639618)
+- [Learn PostgreSQL](https://www.packtpub.com/en-us/product/learn-postgresql-9781837636204)
+- [The Ultimate LinkedIn Sales Guide](https://www.amazon.com/Ultimate-LinkedIn-Sales-Guide-Generating/dp/1119787882)
+- [Resume Writing Guide](https://www.myperfectresume.com/career-center/resumes/how-to/write)
+
+
 
 `Regards`
 **Muhammad Hashim**
