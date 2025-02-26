@@ -54,7 +54,7 @@ This roadmap is structured to help you systematically learn various technical an
 | **5️⃣ Advanced Type Annotation** | Robust Python | 📚 [Book Link](https://www.amazon.com/Robust-Python-Write-Clean-Maintainable/dp/1098100662) 🔗 [Repo](https://github.com/HashimThePassionate/Python-Deep-Dive/tree/main/02_object_oriented_programming) | Asynchronous Programming | Django REST Framework ([Book Link](https://www.packtpub.com/en-us/product/django-in-production-9781804611289)) |
 | **6️⃣ Asynchronous Programming** | Using Asyncio in Python | 📚 [Book Link](https://www.amazon.com/Using-Asyncio-Python-Understanding-Asynchronous/dp/1492075337) 🔗 [Repo](https://github.com/HashimThePassionate/Python-Deep-Dive/tree/main/02_object_oriented_programming/15_async_programming) | Docker | FastAPI ([Book Link](https://www.packtpub.com/en-us/product/building-python-microservices-with-fastapi-9781803238791)) |
 
-### **Phase 4: Databases & System Administration Design patterns, Postesql, Linux and Networking (Month 7-8)**
+### **Phase 4: Databases & System Administration Design patterns, Postgresql, Linux and Networking (Month 7-8)**
 | 🏆 Milestone | 🎯 Primary Skill | 📖 Book & Repository | 🔥 Complementary Skill | 📌 Additional Learning |
 |---------|---------------|---------------------|------------------|------------------|
 | **7️⃣ Design Patterns** | Mastering Python Design Patterns | 📚 [Book Link](https://www.packtpub.com/en-us/product/mastering-python-design-patterns-9781837639618) 🔗 [Repo](https://github.com/HashimThePassionate/Python-Deep-Dive/tree/main/05_design_patterns) | PostgreSQL | Job Search & LinkedIn Optimization ([Book Link](https://www.amazon.com/Ultimate-LinkedIn-Sales-Guide-Generating/dp/1119787882)) |
