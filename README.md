@@ -1,4 +1,4 @@
-# **Skill Development Roadmap**   (Duration 8-Months) 🚀
+# **Skill Development Roadmap**   (Duration 8-Months) 
 
 ## 📌 **Overview**
 
